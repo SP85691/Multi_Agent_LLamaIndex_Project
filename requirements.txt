@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-groq
+groq
+pypdf
+pypdf2
+arize-phoenix
+llama-index-callbacks-arize-phoenix
+torch
+streamlit
+streamlit-chat
+autogen
